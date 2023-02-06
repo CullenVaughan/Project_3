@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Clock_Timer
 //
-//  Created by user234052 on 2/5/23.
+//  Created by Cullen Vaughan on 2/5/23.
 //
 
 import UIKit
